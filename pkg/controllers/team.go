@@ -7,7 +7,6 @@ import (
 	"github.com/leandrolls/JsonWithGo/pkg/db"
 	"net/http"
 
-	// "github.com/leandrolls/JsonWithGo/pkg/models"
 )
 
 func GetTimeHandler (w http.ResponseWriter, r *http.Request) {
